@@ -1,1 +1,2 @@
 Hello from Web-to-Print!
+I installed PostgreSQL 17 and pgAdmin 4
